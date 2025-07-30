@@ -34,3 +34,11 @@ Identificação de padrões em dados, essencial para a inteligência artificial:
 - Processo:
   1. **Treinamento:** o sistema aprende com dados de exemplo.
   2. **Aprendizado:** melhora seu desempenho com o tempo.
+ 
+
+# Atividade para a próxima aula
+  - pesquisar no site do tfgonline - https://tcconline.lapinf.ufn.edu.br/
+            - trabalhos de TFG ou TCC que investigaram sobre Tecnologias Inteligentes Aplicadas à Saúde
+            - categorizar se o trabalho foi de: recomendação, predição, diagnóstico, monitoramento
+  
+
